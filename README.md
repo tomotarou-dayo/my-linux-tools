@@ -6,3 +6,5 @@ Linuxの授業で 作成した
 ## originalalias
 alias lpw='ls -l;pwd;whoami'
 ディレクトリの中身と場所とユーザーを表示する。
+
+## じてゃ
