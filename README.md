@@ -8,3 +8,8 @@ alias lpw='ls -l;pwd;whoami'
 ディレクトリの中身と場所とユーザーを表示する。
 
 ## じてゃ
+
+今日も今日とてLinux
+
+検索するコマンド
+find . -type d -name ".git"
