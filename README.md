@@ -13,3 +13,7 @@ alias lpw='ls -l;pwd;whoami'
 
 検索するコマンド
 find . -type d -name ".git"
+
+systemctl
+killとkill -9は少し違う
+firewallを無効化した！
